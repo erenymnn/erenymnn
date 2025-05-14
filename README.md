@@ -1,5 +1,5 @@
 [![MasterHead](https://academy.ecodation.com/wp-content/uploads/2023/10/java-nedir.jpg)
-<h1 align="center">Hi 👋, I'm Eren</h1>
+<h1 align="center">Hi 👋, I'm Eren Yaman</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eren yaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren yaman" height="30" width="40" /></a>
