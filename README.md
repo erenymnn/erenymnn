@@ -11,13 +11,15 @@ My goal is to become an expert in software development, cloud computing, and mic
 ## 🛠 Tech Stack
 
 ### Languages & Frameworks
-Java
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases & Tools
-PostgreSQL • MySQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Development Tools
-IntelliJ IDEA • Postman
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -33,7 +35,7 @@ IntelliJ IDEA • Postman
 
 ---
 
-### 📈 GitHub Stats (Opsiyonel)
+### 📈 GitHub Stats
 ![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenymnn&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenymnn&layout=compact&theme=radical)
