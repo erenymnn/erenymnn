@@ -1,10 +1,39 @@
-[![MasterHead](https://academy.ecodation.com/wp-content/uploads/2023/10/java-nedir.jpg)
-<h1 align="center">Hi 👋, I'm Eren Yaman</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eren yaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren yaman" height="30" width="40" /></a>
-</p>
+# Hi there! 👋  
+I'm Eren | Junior Backend Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+I am a Computer Engineering graduate with a strong interest in web application development.  
+I have experience in back-end technologies, database management, and API development.  
+I am constantly improving my skills and learning new technologies to create efficient and scalable applications.  
+My goal is to become an expert in software development, cloud computing, and microservices architecture.
 
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+Java
+
+### Databases & Tools
+PostgreSQL • MySQL
+
+### Development Tools
+IntelliJ IDEA • Postman
+
+---
+
+## 🎯 What I'm Currently Learning
+- 🔹 Database Management  
+- 🔹 API Development  
+
+---
+
+## 🚀 A Little About Me
+📚 I constantly explore new technologies and strive to grow my skills.  
+💻 I am a software developer, passionate about learning and self-improvement.
+
+---
+
+### 📈 GitHub Stats (Opsiyonel)
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenymnn&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenymnn&layout=compact&theme=radical)
