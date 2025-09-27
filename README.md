@@ -1,3 +1,4 @@
+![Banner](https://media.giphy.com/media/L0Gyzp8j8jWvG/giphy.gif)
 # Hi there! 👋  
 I'm Eren | Junior Backend Developer
 
@@ -35,7 +36,4 @@ My goal is to become an expert in software development, cloud computing, and mic
 
 ---
 
-### 📈 GitHub Stats
-![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenymnn&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenymnn&layout=compact&theme=radical)
