@@ -1,4 +1,4 @@
-![Banner](https://media.giphy.com/media/L0Gyzp8j8jWvG/giphy.gif)
+
 # Hi there! 👋  
 I'm Eren | Junior Backend Developer
 
