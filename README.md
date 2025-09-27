@@ -2,10 +2,10 @@
 # Hi there! 👋  
 I'm Eren | Junior Backend Developer
 
-I am a Computer Engineering graduate with a strong interest in web application development.  
-I have experience in back-end technologies, database management, and API development.  
-I am constantly improving my skills and learning new technologies to create efficient and scalable applications.  
-My goal is to become an expert in software development, cloud computing, and microservices architecture.
+I'm a Computer Engineering student with a strong interest in mobile app development.
+I have experience in database management and API development.
+I'm constantly improving my skills and learning new technologies to create efficient and scalable applications.
+My goal is to specialize in software development, cloud computing, and microservices architecture.
 
 ---
 
