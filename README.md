@@ -1,6 +1,6 @@
 
 # Hi there! 👋  
-I'm Eren | Junior Backend Developer
+I'm Eren Yaman | Junior Backend Developer
 
 I'm a Computer Engineering student with a strong interest in mobile app development.
 I have experience in database management and API development.
