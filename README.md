@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Hakkımda
 - 🎓 Burdur Mehmet Akif Ersoy Üniversitesi'nde (MAKÜ) **Bilgisayar Mühendisliği 3. Sınıf** öğrencisiyim.
-- 💻 **Backend geliştirme**, RESTful API tasarımı ve veritabanı yönetimi (özellikle PostgreSQL) konularında tecrübe sahibiyim. Modern Spring standartlarına uygun, temiz ve ölçeklenebilir kod yazmaya özen gösteriyorum.
+- 💻 **Backend geliştirme**, RESTful API tasarımı ve veritabanı yönetimi konularında tecrübe sahibiyim. Modern Spring standartlarına uygun, temiz ve ölçeklenebilir kod yazmaya özen gösteriyorum.
 - 🚀 Kariyer hedefim; **Cloud Computing**, **Mikroservis Mimarisi** ve **Konteynerizasyon** teknolojilerinde uzmanlaşarak yüksek performanslı sistemler inşa etmek.
 - 🌱 Şu sıralar **Docker**, **Spring Security (JWT)** üzerine derinlemesine çalışmalar yapıyorum.
 
@@ -41,9 +41,3 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-### 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erenymnn&show_icons=true&theme=radical" alt="erenymnn github stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenymnn&theme=radical" alt="erenymnn streak" width="48%" />
-</p>
