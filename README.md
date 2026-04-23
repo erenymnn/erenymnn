@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Hakkımda
 - 🎓 Burdur Mehmet Akif Ersoy Üniversitesi'nde (MAKÜ) **Bilgisayar Mühendisliği 3. Sınıf** öğrencisiyim.
-- 💻 **Backend geliştirme**, RESTful API tasarımı ve veritabanı yönetimi konularında tecrübe sahibiyim. Modern Spring standartlarına uygun, temiz ve ölçeklenebilir kod yazmaya özen gösteriyorum.
+- 💻 **Backend geliştirme**, RESTful API tasarımı ve veritabanı yönetimi konularında kendimi geliştirmeye devam ediyorum. Modern Spring standartlarına uygun, temiz ve ölçeklenebilir kod yazmaya özen gösteriyorum.
 - 🚀 Kariyer hedefim; **Cloud Computing**, **Mikroservis Mimarisi** ve **Konteynerizasyon** teknolojilerinde uzmanlaşarak yüksek performanslı sistemler inşa etmek.
 - 🌱 Şu sıralar **Docker**, **Spring Security (JWT)** üzerine derinlemesine çalışmalar yapıyorum.
 
